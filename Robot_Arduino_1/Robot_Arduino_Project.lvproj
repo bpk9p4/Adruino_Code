@@ -22,6 +22,7 @@
 					<Item Name="Saturation_Powers.vi" Type="VI" URL="../Krone_Code/Chessy_Drive/Subsystem/Saturation_Powers.vi"/>
 					<Item Name="Hypotenuse_Control.vi" Type="VI" URL="../Krone_Code/Chessy_Drive/Subsystem/Hypotenuse_Control.vi"/>
 					<Item Name="Turning_Power_Mode.vi" Type="VI" URL="../Krone_Code/Chessy_Drive/Subsystem/Turning_Power_Mode.vi"/>
+					<Item Name="Scale_Motor.vi" Type="VI" URL="../Krone_Code/Chessy_Drive/Subsystem/Scale_Motor.vi"/>
 				</Item>
 				<Item Name="Chessy_Drive_Main.vi" Type="VI" URL="../Krone_Code/Chessy_Drive/Chessy_Drive_Main.vi"/>
 			</Item>
